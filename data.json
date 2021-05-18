@@ -1,0 +1,302 @@
+[
+  {
+    "name": "accountable ant",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  },
+  {
+    "name": "accountable anteater",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "adaptable alien",
+    "category": "creature",
+    "tokenType": "admission"
+  },
+  {
+    "name": "adeventurous astronaut",
+    "category": "human",
+    "tokenType": "admission"
+  },
+  {
+    "name": "alert ape",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "ambitious angel",
+    "category": "creature",
+    "tokenType": "admission"
+  },
+  {
+    "name": "amiable anchovy",
+    "category": "fish",
+    "tokenType": "admission"
+  },
+  {
+    "name": "amped aye aye",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "arbitraging admimral",
+    "category": "human",
+    "tokenType": "admission"
+  },
+  {
+    "name": "articulate armadillo",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "aspiring alpaca",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "authentic anaconda",
+    "category": "reptile",
+    "tokenType": "admission"
+  },
+  {
+    "name": "awesome african civet",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "bad-ass bulldog",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "balanced beetle",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  },
+  {
+    "name": "bashful blobfish",
+    "category": "fish",
+    "tokenType": "admission"
+  },
+  {
+    "name": "basketball butterful",
+    "category": "invertebrate",
+    "tokenType": "access"
+  },
+  {
+    "name": "be the bigger person",
+    "category": "just art",
+    "tokenType": "admission"
+  },
+  {
+    "name": "befuddled burglar",
+    "category": "human",
+    "tokenType": "admission"
+  },
+  {
+    "name": "benevolent barn owl",
+    "category": "bird",
+    "tokenType": "admission"
+  },
+  {
+    "name": "big game bandicoot",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "boisterous beaver",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "bold as fuck bat",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "bombastic baboon",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "boss bobcat",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "bowling boa",
+    "category": "reptile",
+    "tokenType": "access"
+  },
+  {
+    "name": "brave bison",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "breakfast bat",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "brilliant bard",
+    "category": "fish",
+    "tokenType": "admission"
+  },
+  {
+    "name": "brilliant barracuda",
+    "category": "fish",
+    "tokenType": "admission"
+  },
+  {
+    "name": "brunch bear",
+    "category": "mammal",
+    "tokenType": "access"
+  },
+  {
+    "name": "bubble hockey basset hound",
+    "category": "mammal",
+    "tokenType": "access"
+  },
+  {
+    "name": "bubbly buzzard",
+    "category": "bird",
+    "tokenType": "admission"
+  },
+  {
+    "name": "bullish bull",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "gary bee",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  },
+  {
+    "name": "very, very, very, very lucky black cat",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "'content' condor",
+    "category": "bird",
+    "tokenType": "admission"
+  },
+  {
+    "name": "calm clam",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  },
+  {
+    "name": "candid clownfish",
+    "category": "fish",
+    "tokenType": "admission"
+  },
+  {
+    "name": "capable caterpillar",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  },
+  {
+    "name": "caring camel",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "charismatic chameleon",
+    "category": "reptile",
+    "tokenType": "admission"
+  },
+  {
+    "name": "charming cheetah",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "checkers chicken",
+    "category": "bird",
+    "tokenType": "admission"
+  },
+  {
+    "name": "cheerful chipmunk",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "chill chinchilla",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "clever crocodile",
+    "category": "reptile",
+    "tokenType": "admission"
+  },
+  {
+    "name": "common sense cow",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "compassionate catfish",
+    "category": "fish",
+    "tokenType": "admission"
+  },
+  {
+    "name": "confident cobra",
+    "category": "reptile",
+    "tokenType": "admission"
+  },
+  {
+    "name": "considerate cowboy",
+    "category": "human",
+    "tokenType": "admission"
+  },
+  {
+    "name": "consistent cougar",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "conviction cockroach",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  },
+  {
+    "name": "courageous cockatoo",
+    "category": "bird",
+    "tokenType": "admission"
+  },
+  {
+    "name": "courteous coyote",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "courtside cat",
+    "category": "mammal",
+    "tokenType": "access"
+  },
+  {
+    "name": "creative crab",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  },
+  {
+    "name": "curious crane",
+    "category": "bird",
+    "tokenType": "admission"
+  },
+  {
+    "name": "cynical cat",
+    "category": "mammal",
+    "tokenType": "admission"
+  },
+  {
+    "name": "sensitive centipede",
+    "category": "invertebrate",
+    "tokenType": "admission"
+  }
+]
